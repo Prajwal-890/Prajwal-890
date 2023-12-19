@@ -7,7 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwal-890&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal-890" /> </p>
 
 
-- 🔭 I’m currently working on [E-Commerce SpringBoot thymeleaf](https://github.com/Prajwal-890/E-Commerce-SpringBoot)
 
 - 🌱 I’m currently learning **Java Full Stack Development**
 
