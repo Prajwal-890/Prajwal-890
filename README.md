@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **prajwaldurgoji16@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/User/OneDrive/Desktop/MyDocuments/CV.pdf](file:///C:/Users/User/OneDrive/Desktop/MyDocuments/CV.pdf)
+- 📄 Know about my experiences [Resume](file:///C:/Users/User/OneDrive/Desktop/MyDocuments/CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
